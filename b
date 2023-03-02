@@ -1,1 +1,1 @@
-this is feature/b
+this is minor change test
