@@ -1,1 +1,1 @@
-this is minor change test
+this is test message
